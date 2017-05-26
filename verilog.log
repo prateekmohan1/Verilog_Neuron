@@ -1,0 +1,12 @@
+OSS_CVC_7.00b-x86_64-rhel6x of 07/07/14 (Linux-elf).
+Copyright (c) 1991-2014 Tachyon Design Automation Corp.
+  All Rights reserved.  Licensed software subject to prohibitions and
+  restrictions.  See OSS CVC artistic license included with release.
+Today is Mon May 22 17:15:20 2017.
+Elaborating source file "counter_tb.sv"
+Unresolved modules or udps:
+  counter
+
+  1 modules or udps unresolved after library processing - cannot continue.
+  Unable to begin simulation.
+End of OSS_CVC_7.00b-x86_64-rhel6x at Mon May 22 17:15:20 2017 (elapsed 0.0 seconds).

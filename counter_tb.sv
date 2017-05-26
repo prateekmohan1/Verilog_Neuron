@@ -3,7 +3,7 @@ module counter_tb;
   /* Make a reset that pulses once. */
   reg reset = 0;
   initial begin
-     $dumpfile("counterComp.vcd");
+     $dumpfile("counter.vcd");
      $dumpvars(0,counter_tb);
 
      # 17 reset = 1;
